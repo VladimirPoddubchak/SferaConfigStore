@@ -12,7 +12,7 @@ spring:
         non_contextual_creation: true
       temp:
         use_jdbc_metadata_defaults: false
-      current_session_context_class: thread
+      # current_session_context_class: thread
   datasource:
     platform: org.hibernate.dialect.PostgreSQL95Dialect
     url: jdbc:postgresql://127.0.0.1:5432/user_service_db?currentSchema=user_service
