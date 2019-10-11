@@ -1,4 +1,4 @@
-greeting: hello, I am chatmsg-service, defoult profile.
+greeting: hello, I am chatmsg-service, dev profile.
 server:
   port: 8091
 
