@@ -1,0 +1,8 @@
+greeting: hello, I am eureka-server, defoult profile.
+server:
+  port: 8761
+
+eureka:
+ client:
+   register-with-eureka: true
+   fetch-registry: false
