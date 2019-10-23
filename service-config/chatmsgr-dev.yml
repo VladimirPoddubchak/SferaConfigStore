@@ -1,0 +1,8 @@
+greeting: hello, I am chatmsgr-service, dev profile.
+server:
+  port: 8091
+
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://root:root@sferacluster0-yhpg9.mongodb.net/chatmsgrdb?retryWrites=true&w=majority
